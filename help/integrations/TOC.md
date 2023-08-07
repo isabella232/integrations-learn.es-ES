@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de integración de Experience Cloud
 breadcrumb-title: Integraciones de Experience Cloud
 user-guide-description: Integraciones Más Información.
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 28%
@@ -23,7 +23,7 @@ ht-degree: 28%
    + [Recorridos del cliente](./solution-categories/customer-journeys.md)
    + [Información de datos y activación](./solution-categories/data-insights.md)
    + [Personalización a escala](./solution-categories/personalization.md)
-+ Integraciones de aplicaciones{#integrations-between-applications}
++ Integraciones de productos{#integrations-between-applications}
    + [Información general](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
