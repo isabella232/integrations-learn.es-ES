@@ -1,10 +1,10 @@
 ---
 title: Configuraciones de integración para aplicaciones de Adobe Experience Cloud, por producto
 description: Configuraciones de integración comunes para aplicaciones de Adobe Experience Cloud organizadas por producto.
-source-git-commit: 594e0c2e79a401c872c8f9a4eafdda82572b37a3
+source-git-commit: a76f91e77f85d6a5050203704037eb8c5fefd270
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 
@@ -13,6 +13,61 @@ ht-degree: 0%
 
 Esta sección ayudará a cualquier persona con familiaridad con el producto de Adobe que desee crear valor empresarial integrando varios productos de Adobe.  Hemos organizado muchas configuraciones de integración comunes para los productos empresariales de Adobe y las hemos asignado a casos de uso reales.  Existen muchas formas de configurar los productos de Adobe según el entorno.  La intención de esta sección es proporcionar directrices que puede implementar tal cual o modificar para satisfacer las necesidades de su entorno.
 
->[!NOTE]
->
->Utilice la navegación a la izquierda para encontrar la integración que mejor se adapte a sus necesidades.
+
+<table>
+<tr>
+    <td>
+      <a  href="./b2b.md"><img alt="Marketing B2b" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <div><strong><a href="./b2b.md">Marketing B2B</a></strong></div>
+      <p>
+        Automatización de marketing y asociación de ventas
+      </p>
+    </td>
+   <td>
+      <a  href="./commerce.md"><img alt="comercio" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <p>
+        Comercio digital B2B y B2C
+      </p>
+   </td>    
+   <td>
+      <a  href="./content-management.md"><img alt="Administración de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <div><strong><a href="./content-management.md">Administración de contenido</a></strong></div>
+      <p>
+        Administración de recursos y contenido
+      </p>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a  href="./content-supply-chain.md"><img alt="Cadena de suministro de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <div><strong><a href="./content-supply-chain.md">Cadena de suministro de contenido</a></strong></div>
+      <p>
+        Acelerar la creación y entrega de contenido
+      </p> 
+    </td>
+   <td>
+      <a  href="./customer-journeys.md"><img alt="Recorridos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <div><strong><a href="./customer-journeys.md">Recorridos del cliente</a></strong></div>
+      <p>
+        Organización y entrega omnicanal
+      </p> 
+    </td>
+   <td>
+      <a  href="./data-insights.md"><img alt="Perspectivas de datos y activación" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <div><strong><a href="./data-insights.md"> Información de datos y activación</a></strong></div>
+      <p>
+        [!DNL Analytics] y gestión de público
+      </p>
+   </td>  
+</tr>
+<tr>
+   <td>
+      <a  href="./personalization.md"><img alt="Personalización a escala" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalización como escala</a></strong></div>
+      <p>
+        Cómo convertir cada conexión en personal
+      </p>
+   </td>
+</table>
+
