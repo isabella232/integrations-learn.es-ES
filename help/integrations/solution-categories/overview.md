@@ -1,17 +1,19 @@
 ---
-title: 'Configuraciones de integración para aplicaciones de Adobe Experience Cloud: por solución'
-description: Configuraciones de integración comunes para aplicaciones de Adobe Experience Cloud organizadas por soluciones.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: 'Configuraciones de integración de aplicaciones: por solución empresarial'
+description: Obtenga información sobre las configuraciones de integración comunes para aplicaciones Experience Cloud, organizadas por soluciones empresariales.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
+# Configuraciones de integración para Experience Cloud: organizadas por solución
 
-# Configuraciones de integración para aplicaciones de Adobe Experience Cloud: por solución
+Esta sección es útil para cualquier persona que tenga una necesidad empresarial, pero no esté segura de qué aplicaciones de Adobe utilizar y cómo integrarlas. Estas son muchas de las configuraciones de integración más comunes, organizadas por soluciones (marketing B2B, cadena de suministro de contenido, perspectivas de datos y activación, etc.).
 
-Esta sección ayudará a cualquier persona que tenga una necesidad empresarial, pero que no esté segura de qué productos de Adobe utilizar y cómo integrarlos.  Hemos organizado muchas de las configuraciones de integración más comunes para los productos empresariales de Adobe por categorías de soluciones.  Tenga en cuenta que hay muchas formas de configurar los productos de Adobe según su entorno.  La intención de esta sección es proporcionar directrices que puede implementar tal cual o modificar para satisfacer las necesidades de su entorno.
+Tenga en cuenta que hay muchas formas de configurar las aplicaciones de Adobe, según el entorno. La intención de esta sección es proporcionar instrucciones para que pueda implementarlas tal cual o modificarlas para satisfacer las necesidades de su entorno.
 
 <table>
 <tr>
@@ -24,14 +26,14 @@ Esta sección ayudará a cualquier persona que tenga una necesidad empresarial, 
     </td>
    <td>
       <a  href="./commerce.md"><img alt="comercio" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Comercio digital B2B y B2C
       </p>
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Administración de contenido" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Administración de contenido</a></strong></div>
+      <div><strong><a href="./content-management.md">Gestión de contenido</a></strong></div>
       <p>
         Administración de recursos y contenido
       </p>
@@ -69,4 +71,3 @@ Esta sección ayudará a cualquier persona que tenga una necesidad empresarial, 
       </p>
    </td>
 </table>
-
