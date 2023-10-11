@@ -1,13 +1,13 @@
 ---
-title: Recorrido del cliente
+title: Integraciones de aplicaciones para el recorrido del cliente
 description: Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fuentes para crear recorridos personalizados en canales múltiples.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # Recorrido del cliente
 
@@ -118,4 +118,3 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 </tr>
 </tbody>
 </table>
-

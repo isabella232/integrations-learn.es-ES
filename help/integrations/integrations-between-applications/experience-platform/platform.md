@@ -1,6 +1,6 @@
 ---
-title: Integrar experiencia de Adobe [!DNL Platform] con otras aplicaciones de Adobe
-description: Descubra cómo integrar Experience Cloud [!DNL Platform] con otras aplicaciones de Adobe.
+title: Integrar Adobe [!DNL Experience Platform] con otras aplicaciones de Adobe
+description: Aprenda a integrar [!DNL Experience Platform] con otras aplicaciones de Adobe.
 solution: Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -9,13 +9,13 @@ level: Beginner
 jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 7%
 
 ---
-
 
 # Integrar experiencia [!DNL Platform] con otras aplicaciones de Adobe
 

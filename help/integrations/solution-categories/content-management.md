@@ -1,17 +1,19 @@
 ---
-title: Gestión de contenido
-description: En el panorama digital actual, satisfacer las necesidades únicas de millones de clientes presenta un desafío significativo. Sin embargo, no termina ahí. Para tener éxito, también debe tener la capacidad de descubrir, conectar y reutilizar rápidamente los recursos aprobados en varios dispositivos y canales a escala global. Además, es crucial conocer la eficacia de estas experiencias. Descubra una solución completa que le permite crear sin esfuerzo experiencias digitales personalizadas, a la vez que garantiza la administración de recursos en tiempo real, la entrega eficiente y la evaluación del rendimiento.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Integraciones de aplicaciones para la administración de contenido
+description: Descubra una solución completa que le permite crear sin esfuerzo experiencias digitales personalizadas, a la vez que garantiza la administración de recursos en tiempo real, la entrega eficiente y la evaluación del rendimiento.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
 
-
 # Gestión de contenido
 
-En el panorama digital actual, satisfacer las necesidades únicas de millones de clientes presenta un desafío significativo. Sin embargo, no termina ahí. Para tener éxito, también debe tener la capacidad de descubrir, conectar y reutilizar rápidamente los recursos aprobados en varios dispositivos y canales a escala global. Además, es crucial conocer la eficacia de estas experiencias. Descubra una solución completa que le permite crear sin esfuerzo experiencias digitales personalizadas, a la vez que garantiza la administración de recursos en tiempo real, la entrega eficiente y la evaluación del rendimiento.
+En el panorama digital actual, satisfacer las necesidades únicas de millones de clientes presenta un desafío significativo. Sin embargo, no termina ahí. Para tener éxito, también debe tener la capacidad de descubrir, conectar y reutilizar rápidamente los recursos aprobados en varios dispositivos y canales a escala global. Además, es crucial conocer la eficacia de estas experiencias.
+
+Descubra una solución completa que le permite crear sin esfuerzo experiencias digitales personalizadas, a la vez que garantiza la administración de recursos en tiempo real, la entrega eficiente y la evaluación del rendimiento.
 
 <table>
  <thead>

@@ -1,13 +1,13 @@
 ---
-title: Perspectivas de datos y activaciones
+title: Integraciones de aplicaciones para activaciones y perspectivas de datos
 description: Impulse la personalización en tiempo real en cualquier canal mediante perspectivas de datos en línea y sin conexión en toda la organización.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
-
 
 # Perspectivas de datos y activaciones
 

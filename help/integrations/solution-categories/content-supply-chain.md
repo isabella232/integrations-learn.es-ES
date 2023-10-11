@@ -1,17 +1,18 @@
 ---
-title: Cadena de suministro de contenido
+title: Integraciones de aplicaciones para la cadena de suministro de contenido
 description: Planifique, cree, personalice y publique contenido.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
 
-
 # Cadena de suministro de contenido
 
 Planifique, cree, personalice y publique contenido inolvidable para cada cliente, al ritmo de ahora.
+
 Cumplir las expectativas en tiempo real de los clientes en cuanto a experiencias personalizadas requiere más contenido digital que nunca. Con las soluciones de flujo de trabajo creativo y administración de recursos de Adobe, sus equipos pueden planificar, crear y entregar contenido personalizado a escala que admita el recorrido del cliente en cada punto de contacto.
 
 <table>
