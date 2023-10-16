@@ -1,11 +1,11 @@
 ---
 title: 'Configuraciones de integración de aplicaciones: por solución empresarial'
-description: Obtenga información sobre las configuraciones de integración comunes para aplicaciones Experience Cloud, organizadas por soluciones empresariales.
+description: Obtenga información sobre las configuraciones de integración comunes para aplicaciones de Experience Cloud, organizadas por soluciones empresariales.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
