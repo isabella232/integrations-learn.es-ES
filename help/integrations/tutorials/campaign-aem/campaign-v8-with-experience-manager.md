@@ -1,7 +1,7 @@
 ---
 title: Integrar [!DNL Campaign] tutorial de v8 con Experience Manager
 description: Obtenga información sobre cómo conectar el Adobe [!DNL Campaign] con Adobe Experience Manager para administrar plantillas de entrega de correo electrónico, recursos y formularios en Experience Manager.
-solution: Campaign, Campaign v8, Experience Manager
+solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
 role: Admin, Developer
@@ -12,13 +12,13 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Integración" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
+source-git-commit: cb7b3dd4776f7a475519ae7b8ed9c3209f9d9917
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 25%
+ht-degree: 0%
 
 ---
-
 
 # Integrar [!DNL Campaign] tutorial de v8 con Experience Manager
 
@@ -36,7 +36,7 @@ Obtenga información sobre cómo configurar la integración entre Experience Man
 
 ## Aprobación y publicación de una página de Experience Manager en [!DNL Campaign]
 
-Aprenda a crear una newsletter en Experience Manager y a aprobarla y publicarla en [!DNL Campaign].
+Obtenga información sobre cómo crear una newsletter en Experience Manager y cómo aprobarla y publicarla en [!DNL Campaign].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
